@@ -545,6 +545,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/markw/proprietary/bin/wcnss_service:system/bin/wcnss_service \
     vendor/xiaomi/markw/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
     vendor/xiaomi/markw/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
+		vendor/xiaomi/markw/proprietary/bin/ptt_socket_app:system/bin/ptt_socket_app \
     vendor/xiaomi/markw/proprietary/etc/cacert_location.pem:system/etc/cacert_location.pem \
     vendor/xiaomi/markw/proprietary/etc/cne/SwimConfig.xml:system/etc/cne/SwimConfig.xml \
     vendor/xiaomi/markw/proprietary/etc/cne/andsfCne.xml:system/etc/cne/andsfCne.xml \
